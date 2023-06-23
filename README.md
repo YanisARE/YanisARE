@@ -10,7 +10,7 @@
 
 - 👯 Je cherche à collaborer sur **des projets variés liés au DevOps,Devsecops, Dataops ou BizOps**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [YanisARE.github.io](YanisARE.github.io)
+- 👨‍💻 Tous mes projets sont disponibles sur [Mon Profil](https://github.com/YanisARE)
 
 - 💬 Demandez-moi à propos de **mes intérêts divers tels que la Data, la Finance, la Cybersecurity, etc.**
 
@@ -18,13 +18,14 @@
 
 - ⚡ Fun fact : **Je suis constamment en train de chercher de nouvelles choses à apprendre et de nouveaux domaines à explorer.**
 
-<h3 align="left">Connectez avec moi:</h3>
+<h3 align="left">Connectez vous avec moi:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yanisbaouche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourLinkedIn" height="30" width="40" /></a>
 
 <h3 align="left">Languages et outils:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="[https://www.oracle.com/fr/java/](https://www.oracle.com/fr/java/)" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.fabianpiau.com/wp-content/uploads/post/00064/java-logo.jpg?resize=418%2C286&ssl=1" alt="Java" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
