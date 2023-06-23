@@ -25,7 +25,7 @@
 <h3 align="left">Languages et outils:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="[https://www.oracle.com/fr/java/](https://www.oracle.com/fr/java/)" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.fabianpiau.com/wp-content/uploads/post/00064/java-logo.jpg?resize=418%2C286&ssl=1" alt="Java" width="40" height="40"/> </a>
+<a href="[https://www.oracle.com/fr/java/](https://www.oracle.com/fr/java/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
