@@ -10,7 +10,7 @@
 
 - 👯 Je cherche à collaborer sur **des projets variés liés au DevOps,Devsecops, Dataops ou BizOps**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [Mon Profil](https://github.com/YanisARE)
+- 👨‍💻 La majorité de mes projets sont disponibles sur [Mon Profil](https://github.com/YanisARE)
 
 - 💬 Demandez-moi à propos de **mes intérêts divers tels que la Data, la Finance, la Cybersecurity, etc.**
 
