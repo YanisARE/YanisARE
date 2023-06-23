@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YanisARE&label=Profile%20views&color=0e75b6&style=flat" alt="YanisARE" /> </p>
 
-- 🔭 Je suis actuellement à la recherche d'un contrat d'alternance dans le domaine du **DevOps/DevSecOps ou plus largement de l'IT**
+- 🔭 Je suis actuellement à la recherche d'un contrat d'alternance dans le domaine du **DevOps/DevSecOps ou plus largement de l'IT** dans le cadre de mon intégration à l'ESILV
 
 - 🌱 J'apprends actuellement **Kubernetes, Docker, CI/CD et d'autres outils DevOps grâce à la formation Microsoft Devops**
 
