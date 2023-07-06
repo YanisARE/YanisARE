@@ -8,11 +8,11 @@
 
 - 🌱 J'apprends actuellement **Kubernetes, Docker, CI/CD et d'autres outils DevOps grâce à la formation Microsoft Devops**
 
-- 👯 Je cherche à collaborer sur **des projets variés liés au DevOps,Devsecops, Dataops ou BizOps**
+- 👯 Je cherche à collaborer sur **des projets variés liés au développement fullstack, DevOps,Devsecops, tout en apportant de la sécurité aux projets**
 
 - 👨‍💻 La majorité de mes projets sont disponibles sur [Mon Profil](https://github.com/YanisARE)
 
-- 💬 Demandez-moi à propos de **mes intérêts divers tels que la Data, la Finance, la Cybersecurity, etc.**
+- 💬 Demandez-moi à propos de **mes intérêts divers tels que la Data, la Finance, la Cybersecurité, et toutes les nouvelles technologies .**
 
 - 📫 Comment me joindre : **yanis.baouche751@gmail.com 🌐**
 
