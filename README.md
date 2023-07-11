@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h1 align="center">Bonjour 👋, je suis Yanis Baouche </h1>
-<h3 align="center">Un passionné de DevOps et de DevSecOps </h3>
+<h3 align="center">Un passionné de Développement informatique, centré sur le DevOps et le DevSecOps </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YanisARE&label=Profile%20views&color=0e75b6&style=flat" alt="YanisARE" /> </p>
 
