@@ -4,19 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YanisARE&label=Profile%20views&color=0e75b6&style=flat" alt="YanisARE" /> </p>
 
-- 🔭 Je suis actuellement à la recherche d'un contrat d'alternance dans le domaine du **DevOps/DevSecOps ou plus largement de l'IT** dans le cadre de mon intégration à l'ESILV
+- 🔭 Je suis actuellement en alternance dans le domaine de la cybersécurité
 
-- 🌱 J'apprends actuellement **Kubernetes, Docker, CI/CD et d'autres outils DevOps grâce à la formation Microsoft Devops**
+- 🌱 J'apprends actuellement **La gestion de projet, splunk et plus globalement le monde de la sécurité informatique**
 
-- 👯 Je cherche à collaborer sur **des projets variés liés au développement fullstack, DevOps,Devsecops, tout en apportant de la sécurité aux projets**
+- 👯 Je cherche à collaborer sur **des projets variés liés au développement, au cloud et sécurité **
 
 - 👨‍💻 La majorité de mes projets sont disponibles sur [Mon Profil](https://github.com/YanisARE)
 
 - 💬 Demandez-moi à propos de **mes intérêts divers tels que la Data, la Finance, la Cybersecurité, et toutes les nouvelles technologies .**
 
-- 📫 Comment me joindre : **yanis.baouche751@gmail.com 🌐**
-
-- ⚡ Fun fact : **Je suis constamment en train de chercher de nouvelles choses à apprendre et de nouveaux domaines à explorer.**
+- 📫 Comment me joindre : **yanis.baouche@edu.devinci.fr 🌐**
 
 <h3 align="left">Connectez vous avec moi:</h3>
 <p align="left">
