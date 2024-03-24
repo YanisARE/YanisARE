@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h1 align="center">Bonjour 👋, je suis Yanis Baouche </h1>
-<h3 align="center">Un passionné de Développement informatique, centré sur le DevOps et le DevSecOps </h3>
+<h3 align="center">Un passionné de Cybersécurité </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YanisARE&label=Profile%20views&color=0e75b6&style=flat" alt="YanisARE" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 🌱 J'apprends actuellement **La gestion de projet, splunk et plus globalement le monde de la sécurité informatique**
 
-- 👯 Je cherche à collaborer sur **des projets variés liés au développement, au cloud et sécurité **
+- 👯 Je cherche à collaborer sur **des projets variés liés au développement, au cloud et à la sécurité des objets connectés**
 
 - 👨‍💻 La majorité de mes projets sont disponibles sur [Mon Profil](https://github.com/YanisARE)
 
-- 💬 Demandez-moi à propos de **mes intérêts divers tels que la Data, la Finance, la Cybersecurité, et toutes les nouvelles technologies .**
+- 💬 Demandez-moi à propos de **mes intérêts divers tels que la Data, la Finance, la réthorique, la Cybersecurité, et toutes les nouvelles technologies .**
 
 - 📫 Comment me joindre : **yanis.baouche@edu.devinci.fr 🌐**
 
